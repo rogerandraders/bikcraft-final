@@ -1,0 +1,75 @@
+:root {
+  --white: #ffffff;
+  --dark-0: #000000;
+  --dark-1: #111111;
+  --grey-1: #f7f7f7;
+  --grey-2: #ededed;
+  --grey-3: #dedede;
+  --grey-4: #cccccc;
+  --grey-5: #b2b2b2;
+  --grey-6: #b2b2b2;
+  --grey-7: #9c9c9c;
+  --grey-8: #717171;
+  --grey-9: #595959;
+  --grey-10: #404040;
+  --yellowb-0: #ffbb00;
+  --yellowb-1: #e4a30b;
+  --yellowb-2: #a66f00;
+  --yellowb-3: #664400;
+  --yellowb-4: #332200;
+}
+
+.white {
+  color: var(--white);
+}
+.dark-0 {
+  color: var(--dark-0);
+}
+.dark-1 {
+  color: var(--dark-1);
+}
+.grey-1 {
+  color: var(--grey-1);
+}
+.grey-2 {
+  color: var(--grey-2);
+}
+.grey-3 {
+  color: var(--grey-3);
+}
+.grey-4 {
+  color: var(--grey-4);
+}
+.grey-5 {
+  color: var(--grey-5);
+}
+.grey-6 {
+  color: var(--grey-6);
+}
+.grey-7 {
+  color: var(--grey-7);
+}
+.grey-8 {
+  color: var(--grey-8);
+}
+.grey-9 {
+  color: var(--grey-9);
+}
+.grey-10 {
+  color: var(--grey-10);
+}
+.yellowb-0 {
+  color: var(--yellowb-0);
+}
+.yellowb-1 {
+  color: var(--yellowb-1);
+}
+.yellowb-2 {
+  color: var(--yellowb-2);
+}
+.yellowb-3 {
+  color: var(--yellowb-3);
+}
+.yellowb-4 {
+  color: var(--yellowb-4);
+}

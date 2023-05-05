@@ -1,0 +1,56 @@
+@import "./css/global/global.css";
+@import "./css/utilitarios/tipografia.css";
+@import "./css/utilitarios/cores.css";
+
+@import "./css/global/header.css";
+
+/* componentes */
+@import "./css/utilitarios/componentes.css";
+
+/* introdução */
+@import "./css/home/introducao.css";
+
+/* lista de bicicletas */
+@import "./css/home/bicicletas-lista.css";
+
+/* tecnologia */
+@import "./css/home/tecnologia.css";
+
+/* parceiros */
+@import "./css/home/parceiros.css";
+
+/* depoimentos */
+@import "./css/home/depoimento.css";
+
+/* seguros */
+@import "./css/seguros/seguros.css";
+@import "./css/bicicleta/seguro.css";
+
+/* rodape */
+@import "./css/global/footer.css";
+
+/* termos */
+@import "./css/termos/termos.css";
+
+/* bicicletas */
+@import "./css/bicicletas/bicicletas.css";
+
+/* vantagens */
+@import "./css/seguros/vantagens.css";
+
+/* perguntas */
+@import "./css/seguros/perguntas.css";
+
+/* bicicletas-interno */
+@import "./css/bicicleta/bicicleta.css";
+
+/* contato */
+@import "./css/contato/contato.css";
+@import "./css/contato/lojas.css";
+@import "./css/utilitarios/formulario.css";
+
+/* orçamentos */
+@import "./css/orcamentos/orcamentos.css";
+
+/* animação */
+@import "./css/utilitarios/animacao.css";
